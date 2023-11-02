@@ -1,0 +1,4 @@
+int main(){
+  print("Hello %d", 123);
+  return 0;
+}
